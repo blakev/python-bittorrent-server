@@ -1,0 +1,3 @@
+aiohttp             >= 1.0.1
+bittorrent-bencode  >= 5.0.8
+cchardet            >= 1.0.0
